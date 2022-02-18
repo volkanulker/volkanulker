@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Volkan</h1>
-<h3 align="center">A passionate backend developer from Turkey</h3>
+<h3 align="center">A passionate software developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=volkanulker&label=Profile%20views&color=0e75b6&style=flat" alt="volkanulker" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Software Development**
 
-- 📫 How to reach me **volkan.ulker.tech@gmail.com**
+- 📫 How to reach me **volkan.ulker.tech@gmail.com** or **vlkn-ulkr@hotmail.com**
 
 - My Patika.dev Profile: [Go to Profile](https://app.patika.dev/volkanulker)
 
