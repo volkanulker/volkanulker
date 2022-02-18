@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **volkan.ulker.tech@gmail.com**
 
-- My Patika.dev Profile: [Profile Link](https://app.patika.dev/volkanulker)
+- My Patika.dev Profile: [Go to Profile](https://app.patika.dev/volkanulker)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
