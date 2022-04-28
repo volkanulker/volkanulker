@@ -25,5 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=volkanulker&show_icons=true&locale=en&layout=compact" alt="volkanulker" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=volkanulker&show_icons=true&locale=en" alt="volkanulker" /></p>
 
