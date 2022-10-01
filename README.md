@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **vlkn-ulkr@hotmail.com**
 
-- My Patika.dev Profile: [Go to Profile](https://app.patika.dev/volkanulker)
+- My Patika.dev Profile: [Go to the Profile](https://app.patika.dev/volkanulker)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
