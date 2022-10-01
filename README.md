@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Volkan</h1>
-<h3 align="center">A passionate software developer from Turkey</h3>
+<h3 align="center">A passionate Backend Developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=volkanulker&label=Profile%20views&color=0e75b6&style=flat" alt="volkanulker" /> </p>
 
-- 🔭 I’m currently working on a SFCC Project (Node.js)
+- 🔭 I’m currently working on a SFCC Project (Demandware)
 
 - 📫 How to reach me **vlkn-ulkr@hotmail.com**
 
