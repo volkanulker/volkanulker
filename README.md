@@ -3,13 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=volkanulker&label=Profile%20views&color=0e75b6&style=flat" alt="volkanulker" /> </p>
 
-- 🔭 I’m currently working on a E-commerce Backend Project (Node.js)
+- 🔭 I’m currently working on a SFCC Project (Node.js)
 
-- 🌱 I’m currently learning **Backend Development**
-
-- 💬 Ask me about **Software Development**
-
-- 📫 How to reach me **volkan.ulker.tech@gmail.com** or **vlkn-ulkr@hotmail.com**
+- 📫 How to reach me **vlkn-ulkr@hotmail.com**
 
 - My Patika.dev Profile: [Go to Profile](https://app.patika.dev/volkanulker)
 
