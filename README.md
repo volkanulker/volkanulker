@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Backend Engineer from Turkey</h3>
 </br>
 
-- 🔭 I’m currently working on a Salesforce Commerce Cloud Project (<a href="https://www.tissotwatches.com/fr-fr">Tissot</a>)
+- 🔭 I’m currently working on a Salesforce Commerce Cloud Project (<a href="https://www.snipesusa.com/">Snipes USA</a>)
 
 - 📫 How to reach me **vlkn-ulkr@hotmail.com**
 
